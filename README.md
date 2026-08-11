@@ -16,6 +16,7 @@ actually want to look at something.
 - **[databricks-tools](https://github.com/shr3kst3r/databricks-tools)** — `dbtools` for jobs, runs, notebooks and Unity Catalog; `dbtui` to browse them read-only
 - **[dev-tools](https://github.com/shr3kst3r/dev-tools)** — live terminal dashboards for GitHub PRs, Airflow, and Azure DevOps pipelines
 - **[goblin-watcher](https://github.com/shr3kst3r/goblin-watcher)** — parallel coding agents in git worktrees: ticket → branch → worktree → session
+- **[hc-cli](https://github.com/shr3kst3r/hc-cli)** — `hc` for Healthchecks.io: the full v3 management API, plus outgoing pings for whatever cron job you're babysitting
 - **[spg](https://github.com/shr3kst3r/spg)** — per-project commands published to `~/bin`, with zsh completion from the same declarations
 - **[claude-global](https://github.com/shr3kst3r/claude-global)** — the Claude Code config and skills that tie the rest together
 
